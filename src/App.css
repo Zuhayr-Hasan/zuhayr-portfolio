@@ -107,7 +107,7 @@ button.card-btn:hover {
 }
 
 button.btn-github {
-  margin-top: 12px;
+  margin-top: 15px;
   text-transform: inherit;
   font-weight: 600;
   letter-spacing: 0.1em;
@@ -132,21 +132,7 @@ button.btn-github:hover {
 .box-content:hover {
   border-radius: 5px;
   background: linear-gradient(to bottom, #444, #000000);
-  /* background: #191919; */
-  /* background: #42275a;
-  background: -webkit-linear-gradient(to right, #734b6d, #42275a);
-  background: linear-gradient(to right, #734b6d, #42275a); */
-  /* background: #141e30; 
-  background: -webkit-linear-gradient(
-    to right,
-    #243b55,
-    #141e30
-  ); 
-  background: linear-gradient(
-    to right,
-    #243b55,
-    #141e30
-  ); */
+  
 }
 
 .card-img-v {

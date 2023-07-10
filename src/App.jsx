@@ -72,7 +72,7 @@ function App() {
             </Typography>
             <Box sx={{ display: 'flex', mt: 1 }}>
               <EmailIcon />
-              <Typography sx={{ ml: 1 }}>zuhayrhassan1122@gmail.com</Typography>
+              <Typography sx={{ ml: 1 }}>zuhairhassan1122@gmail.com</Typography>
             </Box>
             <Box sx={{ display: 'flex', mt: 1 }}>
               <LocalPhoneIcon sx={{ border: '2px solid white' }} />
@@ -164,7 +164,7 @@ function App() {
           })}
         </Grid>
       </div>
-      {/* <SimpleSlider /> */}   
+      
     </ThemeProvider>
   )
 }
